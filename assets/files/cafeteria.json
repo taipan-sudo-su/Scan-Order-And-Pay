@@ -1,0 +1,64 @@
+
+{
+
+"products":[
+{
+
+    "id":1,
+    "name":"Allo Patties",
+    "price":16,
+    "image":"https://imgs.search.brave.com/TA6S6Y-meHCBmSCWtv5AGWTEmW_mLcrmzmR0tqmgeVo/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4x/OHNmN1lGM0I4eHV5/WFdjRGtNQWlnSGFF/SyZwaWQ9QXBp"
+    
+
+},
+
+{
+    "id":2,
+    "name":"paneer Patties",
+    "price":25,
+    "image":"https://imgs.search.brave.com/w281r0NoJ3MwblvQU3uqjggNxYNsveBlKdykFk2ZW90/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uz/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC5VYXFXRG1I/eW5pTW9mRW52Y0N0/S0h3SGFFOCZwaWQ9/QXBp"
+    
+
+},
+{
+    "id":3,
+    "name":"Burger",
+    "price":30,
+    "image":"https://imgs.search.brave.com/MlsbpSUhw_WUharp49GlBcE0lLn3owIfHtDK_HvlnhA/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5p/R19HQ0JzZzZCc0Jx/eG5JZG16a1ZnSGFF/OCZwaWQ9QXBp"
+    
+},
+{
+    "id":4,
+    "name":"boiled egg",
+    "price":9,
+    "image":"https://imgs.search.brave.com/C1qomHnWwXK_eD7SC3kTsEgf9zbkGxlfDg2ARqNB854/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5o/MjlxZW5FTjdtWjhO/Q0J3RUFnMlBBSGFI/YSZwaWQ9QXBp"
+    
+},
+{
+    "id":5,
+    "name":"maggie",
+    "price":18,
+    "image":"https://imgs.search.brave.com/uiz5HsDo-UV7HRJi8sJhuRhp5lGDwZnmdDnRZRu1ZOU/rs:fit:632:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC55/ekhHVTRaYnZlLU9s/Y21EUlI4T05BSGFG/aiZwaWQ9QXBp"
+    
+},
+{
+    "id":6,
+    "name":"Bread Omlette",
+    "price":18,
+    "image":"https://imgs.search.brave.com/WaqqWkJLAyuQ2vZtWlob3-i2cvZSBHzNoj-9oqrPFvU/rs:fit:608:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4z/UUs4RU1YM2tRUmNu/TUI1QnBJWGZnSGFG/eCZwaWQ9QXBp"
+    
+},
+{
+    "id":7,
+    "name":"sandwich",
+    "price":18,
+    "image":"https://imgs.search.brave.com/GCR9eqBMLTWLZNEthmNgafK2GrC5hOdOh0sot3Yjgso/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5X/WDNCVUZRMlhVejhj/Q3BmSGhQcUR3SGFI/YSZwaWQ9QXBp"
+    
+}
+]
+
+
+
+
+
+}

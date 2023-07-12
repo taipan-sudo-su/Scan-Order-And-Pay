@@ -1,5 +1,0 @@
-class is a blueprint or straucture that how are the objects going to blueprint
-class has members ,methods(functions) and properties
-first word of functions are small first word of class is capital and subwords are also capital
- // context defines the location of each method
-    //   if function is inside class it is called method else it is called method
