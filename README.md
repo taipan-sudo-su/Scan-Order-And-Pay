@@ -3,11 +3,18 @@ SOAP( Scan Order and Pay) application is a demo online food ordering application
 It is a well-established online platform that helps people to order food by scanning the QR code that will be placed in the cafeteria and making an option to choose from the menu that has been designed accordingly to the food items available in the cafeteria.
 
 WEBSITE - https://cafeteria0app0juit.web.app/
+
+
 Framework - Flutter
+
 Language - Dart
+
 Design(UI/UX)-Figma
+
 Database - Firebase Firestore
+
 IDE - Visual Studio Code
+
 Version Control - Git
 
 
